@@ -8,7 +8,11 @@ I debug the problem, and make this new repo.
 
 Python 3 users can install it using the following terminal command:
 
-> pip install git+git://github.com/computational-class/twitter-text-py3.git
+> pip install git+https://github.com/computational-class/twitter-text-py3.git
+
+Or
+
+> pip install https://github.com/computational-class/twitter-text-py3/archive/v3.0.zip
 
 
 # Use
